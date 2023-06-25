@@ -1,5 +1,4 @@
-Chapter 1: Introduction: Overview of the Book
-=============================================
+# Overview of the Book
 
 Welcome to "The Power of Education: Learning About Your Benefits for Better Optimization." This book is designed to help you understand your workplace benefits and how to make the most of them.
 

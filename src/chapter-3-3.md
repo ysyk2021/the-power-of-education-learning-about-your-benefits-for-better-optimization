@@ -1,5 +1,4 @@
-Chapter 3: Maximizing Health Benefits: Mental Health Benefits
-=============================================================
+# Mental Health Benefits
 
 Mental health benefits are a critical component of employee compensation and can help employees maintain good mental health, reduce stress, and improve overall job satisfaction. This chapter will explore different types of mental health benefits, their benefits, and strategies for maximizing their impact.
 

@@ -1,5 +1,4 @@
-Chapter 2: Understanding Workplace Benefits: Key Terminology
-============================================================
+# Key Terminology
 
 Understanding workplace benefits can be overwhelming, especially when it comes to the terminology. In this chapter, we'll define some of the essential terms you need to know to make informed decisions about your benefits.
 

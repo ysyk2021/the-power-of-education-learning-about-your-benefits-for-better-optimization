@@ -1,5 +1,4 @@
-Chapter 6: Navigating Legal Benefits: Workers' Compensation
-===========================================================
+# Workers' Compensation
 
 Workers' compensation is a type of insurance that provides benefits to employees who are injured on the job or become ill due to work-related conditions. This benefit is required by law in most states and can provide critical support during challenging times.
 

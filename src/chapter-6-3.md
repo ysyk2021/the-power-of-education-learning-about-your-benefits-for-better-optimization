@@ -1,5 +1,4 @@
-Chapter 6: Navigating Legal Benefits: Employee Assistance Programs
-==================================================================
+# Employee Assistance Programs
 
 Employee assistance programs (EAPs) are a type of legal benefit offered by many employers. These programs provide confidential counseling services and other resources to help employees deal with personal or work-related issues like stress, addiction, or grief.
 

@@ -1,5 +1,4 @@
-Chapter 3: Maximizing Health Benefits: Wellness Programs
-========================================================
+# Wellness Programs
 
 Wellness programs are a critical component of employee compensation and can help employees maintain good health, reduce healthcare costs, and improve overall job satisfaction. This chapter will explore different types of wellness programs, their benefits, and strategies for maximizing their impact.
 

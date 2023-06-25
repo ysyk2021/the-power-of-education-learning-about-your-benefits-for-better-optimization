@@ -1,5 +1,4 @@
-Chapter 6: Navigating Legal Benefits: Disability Insurance
-==========================================================
+# Disability Insurance
 
 Disability insurance is a type of legal benefit that provides financial support if you become disabled and unable to work. This insurance may be provided by your employer or purchased on your own.
 

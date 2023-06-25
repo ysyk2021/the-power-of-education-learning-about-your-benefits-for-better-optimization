@@ -1,5 +1,4 @@
-Chapter 7: Optimizing Benefits through Education: Communicating with HR and Benefit Providers
-=============================================================================================
+# Communicating with HR and Benefit Providers
 
 In addition to educating yourself about your workplace benefits, it's essential to communicate effectively with your employer's HR department and benefit providers. By doing so, you can ensure that you're making the most of your benefits package and addressing any concerns or questions you may have.
 

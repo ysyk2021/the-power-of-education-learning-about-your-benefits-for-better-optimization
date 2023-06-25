@@ -1,5 +1,4 @@
-Chapter 5: Exploring Time-Off Benefits: Sick Leave and Family Leave
-===================================================================
+# Sick Leave and Family Leave
 
 In addition to vacation time and flexible work arrangements, many employers offer time-off benefits like sick leave and family leave. These benefits can be essential for employees who need time off for medical reasons or to care for a family member.
 
