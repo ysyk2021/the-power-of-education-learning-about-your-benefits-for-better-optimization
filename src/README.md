@@ -8,5 +8,4 @@ Whether you're just starting your career or looking to take your existing career
 
 If you're ready to invest in yourself and your future, then "The Power of Education" is the ultimate guide to achieving career success through education.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
