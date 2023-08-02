@@ -1,48 +1,59 @@
-# Key Terminology
+Chapter: Key Terminology
+========================
 
-Understanding workplace benefits can be overwhelming, especially when it comes to the terminology. In this chapter, we'll define some of the essential terms you need to know to make informed decisions about your benefits.
+In this chapter, we will cover key terminology related to workplace benefits. Understanding these terms is essential for effectively navigating and optimizing your benefits package. Familiarize yourself with these terms to make informed decisions and fully leverage the benefits provided by your employer.
 
-Deductible
-----------
+**1. Premium**
+--------------
 
-A deductible is the amount you pay for covered healthcare services before your insurance plan starts paying. For example, if you have a $1,000 deductible and have a medical bill of $5,000, you'll need to pay the first $1,000, and your insurance will cover the remaining $4,000.
+A premium refers to the amount of money an employee pays, typically deducted from their paycheck, to maintain coverage under an insurance plan. It is the regular cost of having access to the benefits provided by the plan.
 
-Coinsurance
------------
+**2. Deductible**
+-----------------
 
-Coinsurance is the percentage of health care costs you're responsible for paying after meeting your deductible. For instance, if your coinsurance is 20%, you'll pay 20% of the cost of covered services, and your insurance will pay the remaining 80%.
+The deductible is the specific amount an employee must pay out of pocket for covered healthcare services before the insurance plan starts to contribute. For example, if you have a $1,000 deductible, you must pay $1,000 in eligible expenses before your insurance begins covering the costs.
 
-Copayment
----------
+**3. Copayment**
+----------------
 
-A copayment is a fixed amount you pay for a covered service, such as a doctor's visit or prescription medication. For example, if your copayment for a primary care visit is $20, you'll pay $20 at each visit, and your insurance will cover the rest.
+A copayment, or copay, is a fixed amount an employee pays at the time of receiving a particular healthcare service, such as a doctor's visit or prescription medication. The insurance plan then covers the remaining cost of the service.
 
-Out-of-pocket maximum
+**4. Coinsurance**
+------------------
+
+Coinsurance is the percentage of the cost of covered healthcare services that an employee must pay after meeting their deductible. For example, if the plan has a 20% coinsurance requirement, the employee is responsible for paying 20% of the cost of services while the insurance covers the remaining 80%.
+
+**5. Out-of-Pocket Maximum**
+----------------------------
+
+The out-of-pocket maximum is the maximum amount an employee will have to pay for covered healthcare services during a specified period, typically one year. Once this limit is reached, the insurance plan covers 100% of any additional eligible expenses.
+
+**6. Vesting**
+--------------
+
+Vesting refers to the process by which an employee becomes entitled to receive retirement plan contributions made by the employer. It typically involves fulfilling certain requirements, such as working for a specific period of time, before the contributions become fully owned by the employee.
+
+**7. Employer Match**
 ---------------------
 
-The out-of-pocket maximum is the most you'll have to pay for covered healthcare services in a year. Once you reach this limit, your insurance will cover all eligible expenses for the remainder of the year.
+An employer match is when an employer contributes a certain percentage or dollar amount to an employee's retirement plan based on the employee's own contributions. For example, if the employer offers a 50% match and the employee contributes $1,000, the employer will contribute an additional $500.
 
-Premium
--------
+**8. Flexible Spending Account (FSA)**
+--------------------------------------
 
-A premium is the amount you pay each month for your insurance coverage. This amount is usually deducted from your paycheck if you receive insurance through your employer.
+An FSA is a tax-advantaged account offered by employers that allows employees to set aside pre-tax dollars to pay for eligible healthcare expenses or dependent care expenses. It offers potential tax savings by reducing the employee's taxable income.
 
-FSA/HSA
--------
+**9. Open Enrollment**
+----------------------
 
-A Flexible Spending Account (FSA) and Health Savings Account (HSA) are both accounts you can use to save money on healthcare expenses. An FSA is funded with pre-tax dollars and must be used by the end of the year, while an HSA is also funded with pre-tax dollars but can be carried over from year to year.
+Open enrollment is a specific period each year during which employees can make changes to their benefit elections. It is an opportunity to enroll in new benefits, make changes to existing coverage, or adjust contributions to retirement plans and other benefits.
 
-401k
-----
+**10. Life Insurance**
+----------------------
 
-A 401k is a retirement savings plan offered by some employers. You can contribute a portion of your pre-tax income to the plan, and your employer may also contribute. The money in your 401k grows tax-free until you withdraw it in retirement.
+Life insurance provides financial protection to the employee's beneficiaries in the event of the employee's death. The policy pays out a designated amount, known as the death benefit, to the beneficiaries upon the employee's passing.
 
-Pension
--------
+**Conclusion**
+--------------
 
-A pension is a retirement plan that provides a fixed monthly payment to retirees based on their years of service and salary. Pensions are less common than they used to be, but some employers still offer them.
-
-Conclusion
-----------
-
-Understanding key terminology related to workplace benefits is essential to making informed decisions about your coverage. By knowing what terms like deductible, coinsurance, copayment, out-of-pocket maximum, premium, FSA/HSA, 401k, and pension mean, you'll be better equipped to select the benefits that best meet your needs.
+Understanding key terminology related to workplace benefits is crucial for making informed decisions and optimizing your benefits package. Terms such as premium, deductible, copayment, coinsurance, out-of-pocket maximum, vesting, employer match, flexible spending account, open enrollment, and life insurance are essential to grasp when navigating and maximizing the value of your benefits. Be sure to familiarize yourself with these terms and consult with your employer's benefits resources for further clarification or guidance.
