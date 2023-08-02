@@ -1,4 +1,4 @@
-Chapter: Key Terminology
+Key Terminology
 ========================
 
 In this chapter, we will cover key terminology related to workplace benefits. Understanding these terms is essential for effectively navigating and optimizing your benefits package. Familiarize yourself with these terms to make informed decisions and fully leverage the benefits provided by your employer.

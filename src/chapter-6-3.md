@@ -1,4 +1,4 @@
-Chapter: Employee Assistance Programs
+Employee Assistance Programs
 =====================================
 
 Employee Assistance Programs (EAPs) are valuable resources provided by employers to support employees' well-being and address personal challenges that may affect their work performance. This chapter explores the significance of EAPs, the benefits they offer, and how employees can make the most of these programs.

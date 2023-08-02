@@ -1,4 +1,4 @@
-Chapter: Types of Workplace Benefits
+Types of Workplace Benefits
 ====================================
 
 In this chapter, we will explore the various types of workplace benefits that employers offer to employees as part of their overall compensation package. These benefits go beyond salary and play a crucial role in attracting and retaining top talent, promoting employee well-being, and optimizing overall job satisfaction.
