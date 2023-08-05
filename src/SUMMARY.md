@@ -2,7 +2,6 @@
 
 - [Chapter 1: Introduction](README.md)
   - [Importance of Education on Workplace Benefits](chapter-1-1.md)
-  - [Overview of the Book](chapter-1-2.md)
 - [Chapter 2: Understanding Workplace Benefits](chapter-2.md)
   - [Types of Workplace Benefits](chapter-2-1.md)
   - [How Benefits are Structured](chapter-2-2.md)
