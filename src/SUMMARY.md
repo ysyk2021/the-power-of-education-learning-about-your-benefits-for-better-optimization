@@ -30,6 +30,5 @@
   - [Common Obstacles to Accessing Benefits](chapter-8-1.md)
   - [Strategies for Overcoming Challenges](chapter-8-2.md)
 - [Chapter 9: Case Studies of Successful Benefit Optimization](chapter-9.md)
-  - [Real-life Examples of Employees who have Successfully Optimized their Workplace Benefits through Education](chapter-9-1.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
