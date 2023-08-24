@@ -1,5 +1,3 @@
-Chapter 4: Leveraging Financial Benefits
-========================================
 
 Financial benefits are a critical component of employee compensation and provide employees with opportunities to save for their future, invest in their company, and further their education. This chapter will explore different types of financial benefits, including retirement plans, stock options, and tuition reimbursement.
 

@@ -1,5 +1,3 @@
-Wellness Programs
-============================
 
 Wellness programs are structured initiatives designed to promote employees' physical, mental, and emotional well-being. In this chapter, we will explore the significance of wellness programs in the workplace and how they contribute to employee health and productivity. By understanding and utilizing these programs effectively, individuals can optimize their benefits and enhance their overall quality of life.
 

@@ -1,5 +1,3 @@
-Chapter 3: Maximizing Health Benefits
-=====================================
 
 Health benefits are a critical component of employee compensation that provide employees with access to medical care and support for their physical and mental health needs. This chapter will explore different types of health benefits, including health insurance options, wellness programs, and mental health benefits, as well as strategies for maximizing their impact.
 

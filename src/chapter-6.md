@@ -1,5 +1,3 @@
-Chapter 6: Navigating Legal Benefits
-====================================
 
 In addition to voluntary benefits, employers are also required by law to provide certain benefits to their employees. These benefits can provide financial support during difficult times and help protect your well-being.
 

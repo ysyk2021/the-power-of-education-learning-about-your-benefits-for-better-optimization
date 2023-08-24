@@ -1,5 +1,3 @@
-Chapter 2: Understanding Workplace Benefits
-===========================================
 
 Workplace benefits are an essential component of employee compensation packages that provide employees with additional support beyond their salaries. This chapter will explore different types of workplace benefits, how they are structured, and key terminology to help employees better understand their benefits.
 

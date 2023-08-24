@@ -1,5 +1,3 @@
-Communicating with HR and Benefit Providers
-======================================================
 
 In order to make the most of your benefits, effective communication with HR representatives and benefit providers is essential. This chapter will guide you through the process of effectively communicating your needs, resolving issues, and understanding your benefit options.
 

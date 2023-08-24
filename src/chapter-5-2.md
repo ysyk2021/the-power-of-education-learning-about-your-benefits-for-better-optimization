@@ -1,5 +1,3 @@
-Sick Leave and Family Leave
-======================================
 
 *Sick leave* and *family leave* are crucial benefits that support employees in maintaining a healthy work-life balance and addressing personal and family needs. In this chapter, we will explore the significance of these benefits and how they contribute to the overall well-being of individuals and their families.
 

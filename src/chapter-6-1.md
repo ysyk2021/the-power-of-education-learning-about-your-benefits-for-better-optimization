@@ -1,5 +1,3 @@
-Workers' Compensation
-==============================
 
 In this chapter, we will explore the concept of workers' compensation and its significance in ensuring the well-being of employees. We will delve into the key aspects of workers' compensation, including its purpose, coverage, claims process, and the rights and responsibilities of both employers and employees.
 

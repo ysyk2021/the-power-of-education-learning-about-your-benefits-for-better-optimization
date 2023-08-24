@@ -1,5 +1,3 @@
-Mental Health Benefits
-=================================
 
 Mental health is a crucial aspect of overall well-being, and employers are increasingly recognizing the importance of supporting their employees' mental health needs. In this chapter, we will explore the significance of mental health benefits in the workplace and how they contribute to employee well-being. Understanding and utilizing these benefits can have a significant positive impact on individuals' mental health and overall job satisfaction.
 
